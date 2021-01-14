@@ -5,12 +5,15 @@ This program runs a series of stand alone methods that solve for various problem
 
 ### Challenge 1:
 Take in 3 user inputs and multiply them together, returning the product. Ensure the proper amount of data is inputted and that it is all numbers.
+![Challenge 1 Whiteboard](https://github.com/Overholtk/Lab03-SystemIO/blob/KOverholt-LAB03/assets/Challenge1.png)
 
 ### Challenge 2:
 Get a user inputted number between 2 and 10, then get that amount of numerical inputs from the user, and give them the average of their inputs. 
 
 ### Challenge 3:
 Display an ascii art rhombus to the user by printing spaces and asterisks.
+[Challenge 3 Pseudo code / planning doc](https://github.com/Overholtk/Lab03-SystemIO/blob/KOverholt-LAB03/assets/challenge3pseudo.txt)
+  *will be updated and transferred to an image in the final submission*
 
 ### Challenge 4:
 Analyze an array of integers and return the value that appears the most times in the array.
