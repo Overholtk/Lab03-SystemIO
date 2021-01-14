@@ -32,7 +32,7 @@ Read the same file, then output the contents to the console.
 ## Getting Started:
 Clone the repository to your computer:
 
-`$ git clone https://github.com/Overholtk/Lab02-UnitTests`
+`$ git clone https://github.com/Overholtk/Lab03-SystemIO`
 
 Run the program in visual studio by selecting file -> open -> Project/Solution, then navigating to where you saved the file and selecting the .sln file. Alternatively, run the filepath within your terminal.
 
