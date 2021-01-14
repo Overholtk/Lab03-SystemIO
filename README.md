@@ -44,4 +44,4 @@ Whiteboards and Diagrams:
 Lab is unfinished. Will resubmit on Saturday.
 
 ## Changelog:
-1/12/21: Published Version 1.0
+1/13/21: Published Version 1.0
