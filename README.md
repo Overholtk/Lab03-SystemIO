@@ -12,7 +12,9 @@ Get a user inputted number between 2 and 10, then get that amount of numerical i
 
 ### Challenge 3:
 Display an ascii art rhombus to the user by printing spaces and asterisks.
+
 [Challenge 3 Pseudo code / planning doc](https://github.com/Overholtk/Lab03-SystemIO/blob/KOverholt-LAB03/assets/challenge3pseudo.txt)
+
   *will be updated and transferred to an image in the final submission*
 
 ### Challenge 4:
