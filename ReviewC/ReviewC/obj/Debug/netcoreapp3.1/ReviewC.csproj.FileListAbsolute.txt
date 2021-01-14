@@ -1,0 +1,13 @@
+C:\Users\moreg\Documents\Codefellows\401\Lab03-SystemIO\ReviewC\ReviewC\bin\Debug\netcoreapp3.1\ReviewC.exe
+C:\Users\moreg\Documents\Codefellows\401\Lab03-SystemIO\ReviewC\ReviewC\bin\Debug\netcoreapp3.1\ReviewC.deps.json
+C:\Users\moreg\Documents\Codefellows\401\Lab03-SystemIO\ReviewC\ReviewC\bin\Debug\netcoreapp3.1\ReviewC.runtimeconfig.json
+C:\Users\moreg\Documents\Codefellows\401\Lab03-SystemIO\ReviewC\ReviewC\bin\Debug\netcoreapp3.1\ReviewC.runtimeconfig.dev.json
+C:\Users\moreg\Documents\Codefellows\401\Lab03-SystemIO\ReviewC\ReviewC\bin\Debug\netcoreapp3.1\ReviewC.dll
+C:\Users\moreg\Documents\Codefellows\401\Lab03-SystemIO\ReviewC\ReviewC\bin\Debug\netcoreapp3.1\ReviewC.pdb
+C:\Users\moreg\Documents\Codefellows\401\Lab03-SystemIO\ReviewC\ReviewC\obj\Debug\netcoreapp3.1\ReviewC.csprojAssemblyReference.cache
+C:\Users\moreg\Documents\Codefellows\401\Lab03-SystemIO\ReviewC\ReviewC\obj\Debug\netcoreapp3.1\ReviewC.AssemblyInfoInputs.cache
+C:\Users\moreg\Documents\Codefellows\401\Lab03-SystemIO\ReviewC\ReviewC\obj\Debug\netcoreapp3.1\ReviewC.AssemblyInfo.cs
+C:\Users\moreg\Documents\Codefellows\401\Lab03-SystemIO\ReviewC\ReviewC\obj\Debug\netcoreapp3.1\ReviewC.csproj.CoreCompileInputs.cache
+C:\Users\moreg\Documents\Codefellows\401\Lab03-SystemIO\ReviewC\ReviewC\obj\Debug\netcoreapp3.1\ReviewC.dll
+C:\Users\moreg\Documents\Codefellows\401\Lab03-SystemIO\ReviewC\ReviewC\obj\Debug\netcoreapp3.1\ReviewC.pdb
+C:\Users\moreg\Documents\Codefellows\401\Lab03-SystemIO\ReviewC\ReviewC\obj\Debug\netcoreapp3.1\ReviewC.genruntimeconfig.cache

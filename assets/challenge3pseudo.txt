@@ -1,0 +1,31 @@
+1111* 
+111*** 
+11*****
+1*******
+*********
+1*******
+11*****
+111***
+1111*
+
+int[]
+int mid = length/2
+for(i = 0; i <= 4 i++){
+	int spaces = 3;
+	for(j = 0; j <= 9; j++){
+	 	if(i <= spaces){
+		Console.Write(" ");
+		}
+		if(i + 1 <= spaces){
+		Console.Write(" ");
+		}
+		else
+		{
+		Console.Write("*");
+		}
+		spaces--;
+		Console.WriteLine();			
+	}
+}
+for(i = 0; i <=; i++){
+	int spaces = 1;
